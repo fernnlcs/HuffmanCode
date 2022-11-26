@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ee90214-711d-4837-8567-e5e859987ad9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/assertj_core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mockito_core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HuffmanCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/contracts/Identifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core/Compressor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core/Simulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/factories/utils/KeyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/factories/utils/ValueFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/structures/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/structures/HuffmanTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/structures/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/utils/DictionaryViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/utils/HuffmanTreeViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/utils/PriorityQueueViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/utils/SortMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/utils/dictionary/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/utils/dictionary/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/core/CompressorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/structures/HashTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/utils/PriorityQueueViewerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2HyNiYgBGVh6REWlOph3f0OmbZ2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/fernn/Documents/GitHub/HuffmanCode/src/main/factories",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main.factories" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fernn\Documents\GitHub\HuffmanCode\src\main\factories" />
+      <recent name="C:\Users\fernn\Documents\GitHub\HuffmanCode\src\test\structures" />
+      <recent name="C:\Users\fernn\Documents\GitHub\HuffmanCode\src\main\structures" />
+      <recent name="C:\Users\fernn\Documents\GitHub\HuffmanCode\src\test\utils" />
+      <recent name="C:\Users\fernn\Documents\GitHub\HuffmanCode\src\main\utils" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="main.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fernn\Documents\GitHub\HuffmanCode\src\main\structures" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="main.utils.dictionary" />
+      <recent name="main.utils" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="main.utils.dictionary" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.factories.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.App" />
+      <module name="HuffmanCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in HuffmanCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HuffmanCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompressorTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HuffmanCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.core" />
+      <option name="MAIN_CLASS_NAME" value="test.core.CompressorTest" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HuffmanCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.structures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.structures" />
+      <option name="MAIN_CLASS_NAME" value="test.structures.HashTableTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueViewerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HuffmanCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.utils" />
+      <option name="MAIN_CLASS_NAME" value="test.utils.PriorityQueueViewerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main in HuffmanCode" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="HuffmanCode" />
+      <extension name="coverage" runner="jacoco">
+        <pattern>
+          <option name="PATTERN" value="main.contracts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test in HuffmanCode" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="HuffmanCode" />
+      <extension name="coverage" runner="jacoco">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.CompressorTest.create" />
+        <item itemvalue="JUnit.All in HuffmanCode" />
+        <item itemvalue="JUnit.HashTableTest" />
+        <item itemvalue="JUnit.PriorityQueueViewerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ee90214-711d-4837-8567-e5e859987ad9" name="Changes" comment="" />
+      <created>1669253494814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669253494814</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/structures/HuffmanTree.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HuffmanCode$All_in_HuffmanCode.ic" NAME="All in HuffmanCode Coverage Results" MODIFIED="1669344408533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/HuffmanCode$main_in_HuffmanCode.exec" NAME="main in HuffmanCode Coverage Results" MODIFIED="1669316200020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.contracts.*</FILTER>
+    </SUITE>
+  </component>
+</project>
